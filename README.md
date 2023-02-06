@@ -11,3 +11,17 @@ In 4:1 multiplexer, there are four inputs,A0 , A1, A2 and A3, 2 selection line, 
 
 $$Y=S_1' S_0' A_0+S_1' S_0 A_1+S_1 S_0' A_2+S_1 S_0 A_3$$
 
+### Logical circuit
+
+![logical circuit](https://static.javatpoint.com/tutorial/digital-electronics/images/multiplexer6.png)
+
+
+### Truth Table
+
+|$$S_0$$|$$S_1$$|$$Y$$|
+|-|-|-|
+|0|0|$$A_0$$|
+|0|1|$$A_1$$|
+|1|0|$$A_2$$|
+|1|1|$$A_3$$|
+
