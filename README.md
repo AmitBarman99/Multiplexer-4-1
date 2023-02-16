@@ -1,6 +1,6 @@
 ## 4 : 1 Multiplexer
 
-In 4:1 multiplexer, there are four inputs,$A_0 , A_1, A_2$ and $A_3$, 2 selection line, $S_0 , S_1$ and single outputs, Y. On the basis of the combination of inputs at the selection line $S_0$ and $S_1$, one of these 4 inputs will be connected to the output.
+In 4:1 multiplexer, there are four inputs, $A_0$ , $A_1$, $A_2$ and $A_3$, 2 selection line, $S_0 , S_1$ and single outputs, Y. On the basis of the combination of inputs at the selection line $S_0$ and $S_1$, one of these 4 inputs will be connected to the output.
 
 ### Block Diagram
 
